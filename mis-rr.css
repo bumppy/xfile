@@ -1,0 +1,68 @@
+@charset "utf-8";
+.Menu {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.FormT {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #996600;
+	text-decoration: none;
+}
+.TextBlack12 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+.TexttopicRed {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
+.TextBlackMsg {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	padding: 5px;
+}
+.AdminText {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: bold;
+	color: #0000FF;
+	text-decoration: none;
+}
+a:link {
+	color: #FF0000;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+
+.normaltext11 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
